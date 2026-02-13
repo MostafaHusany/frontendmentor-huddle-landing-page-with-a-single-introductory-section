@@ -24,19 +24,11 @@ img {
 
 .container {
     margin: auto;
-    width: 990px;
+    width: 1170px;
 }
 
 .row {
     display: flex;
-}
-
-.justify-center {
-    justify-content: center;
-}
-
-.justify-end {
-    justify-content: end;
 }
 
 nav {
@@ -45,7 +37,7 @@ nav {
 }
 
 .logo-container img {
-    width: 165px;
+    width: 175px;
 }
 
 main {
@@ -68,20 +60,18 @@ main .details-container {
 .details-container h1 {
     margin: 25px 0 20px;
 
-    font-size: 30px;
+    font-size: 39px;
     font-weight: 400;
 }
 
 .details-container p {
     margin-bottom: 25px;
-    
-    font-size: 13px;
     font-weight: 100;
 }
 
 .details-container .btn {
 
-    width: 160px;
+    width: 188px;
     padding: 14px;
     font-weight: 500;
     color: hsl(257, 40%, 49%);
@@ -101,8 +91,8 @@ main .details-container {
 }
 
 .social-container a {
-    width: 30px;
-    height: 30px;
+    width: 40px;
+    height: 40px;
     
     display: flex;
     align-items: center;
@@ -112,7 +102,7 @@ main .details-container {
     border-radius: 50%;
     
     color: #fff;
-    font-size: 12px;
+    font-size: 16px;
     text-decoration: none;
 }
 
